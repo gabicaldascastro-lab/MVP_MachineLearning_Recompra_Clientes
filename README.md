@@ -1,7 +1,9 @@
-# Sistema Inteligente de Recomendação Baseado em Predição de Compra
+# MVP - Predição de Recompra de Clientes
 
 Projeto desenvolvido para a disciplina de Ciência de Dados e Analytics da PUC-Rio.
 
-O objetivo é desenvolver um modelo de Machine Learning capaz de prever a probabilidade de compra de produtos em um e-commerce, apoiando a geração de recomendações personalizadas.
+O objetivo deste trabalho foi desenvolver um modelo de Machine Learning capaz de identificar clientes com maior probabilidade de recompra a partir do histórico de compras de um e-commerce. Para isso, foram realizadas etapas de análise exploratória dos dados, engenharia de atributos, construção de pipelines, comparação entre modelos de classificação e avaliação utilizando conjuntos de treino, validação e teste.
 
-Dataset utilizado: Online Retail (UCI Machine Learning Repository).
+O modelo Random Forest apresentou o melhor desempenho, alcançando aproximadamente 99,5% de acurácia no conjunto de teste.
+
+Conjunto de dados utilizado: Online Retail (UCI Machine Learning Repository).
